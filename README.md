@@ -8,7 +8,14 @@
   
   
   
-  ## The check_folder_files() function takes a folder path and a file names path as inputs. It reads the file names from the file names path and checks if each file exists in the folder path. If a file exists, it prints a message saying that the file exists in the folder. If not, it prints a message saying that the file does not exist in the folder.
+  ## The check_folder_files() function takes a folder path and a file names path as inputs. 
+  
+  
+  
+  It reads the file names from the file names path and checks if each file exists in the folder path. 
+  
+  
+  If a file exists, it prints a message saying that the file exists in the folder. If not, it prints a message saying that the file does not exist in the folder.
 
     The example usage shows how to call the functions with example inputs. You can replace the zip_url, folder_path, and file_names_path variables with your own inputs.
 
